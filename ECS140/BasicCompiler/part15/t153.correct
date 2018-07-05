@@ -1,0 +1,3 @@
+running e2c t153
+mustbe: want ID, got Token(NUM 1 7)
+can't parse: line 7 missing token (mustbe)

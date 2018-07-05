@@ -1,0 +1,85 @@
+running e2c t162
+k
+  declared on line 1 at nesting depth 0
+  assigned to on: 2 6 7 10 17 25(2) 27
+  used on: 2(2) 3 6 7 10 12 17 18 21 25 27 30
+n
+  declared on line 1 at nesting depth 0
+  assigned to on: 5 6 7 9 13 23 26
+  used on: 6(2) 7(2) 10(2) 11 15 16(3) 17(3) 20 24 25(4) 27(3) 29
+kk
+  declared on line 14 at nesting depth 1
+  assigned to on: 16
+  used on: 16 18
+compiling the C generated code
+executing the a.out
+5
+4
+2
+1
+0
+14
+15
+16
+26
+25
+24
+23
+22
+21
+20
+19
+10
+6
+1001
+301
+1 0
+1002
+204
+304
+303
+302
+3 1
+1003
+209
+208
+207
+206
+309
+308
+307
+306
+305
+304
+303
+5 2
+1004
+216
+215
+214
+213
+212
+211
+210
+209
+208
+316
+315
+314
+313
+312
+311
+310
+309
+308
+307
+306
+305
+304
+7 3
+5
+3
+8888
+1001
+78
+77

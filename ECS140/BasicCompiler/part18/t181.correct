@@ -1,0 +1,18 @@
+running e2c t181
+a
+  declared on line 1 at nesting depth 0
+  assigned to on: 2
+  used on: 3 4 5 6
+b
+  declared on line 1 at nesting depth 0
+  assigned to on: 3
+  used on: 3 4 5 6
+c
+  declared on line 1 at nesting depth 0
+  assigned to on: 5
+  used on: 5 6
+compiling the C generated code
+executing the a.out
+11 12
+
+c is unassigned before use

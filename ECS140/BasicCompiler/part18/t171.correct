@@ -1,0 +1,22 @@
+running e2c t171
+a
+  declared on line 1 at nesting depth 0
+  assigned to on: 21
+  used on: 22(2) 24
+b
+  declared on line 1 at nesting depth 0
+  assigned to on: 20 22
+  used on: 22(3) 24
+compiling the C generated code
+executing the a.out
+11
+
+22
+
+133
+
+33
+
+555
+
+5 7

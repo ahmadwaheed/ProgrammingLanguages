@@ -1,0 +1,51 @@
+running e2c t175
+x
+  declared on line 1 at nesting depth 0
+  assigned to on: 6 12 18
+  used on: 8(2) 9(2) 10 14(2) 15(2) 16 19 20(2) 21(2) 22 24(3) 25(3) 26(3) 27(3) 28(4) 29(4) 30(4) 31(4) 32(4) 33(4) 34(4) 35
+max
+  declared on line 1 at nesting depth 0
+  assigned to on: 8 14 20
+  used on: 10 16 22
+k
+  declared on line 1 at nesting depth 0
+  assigned to on: 3
+  never used
+y
+  declared on line 5 at nesting depth 1
+  assigned to on: 7 13 19
+  used on: 8(2) 9(2) 10 14(2) 15(2) 16 20(2) 21(2) 22 24(3) 25 26 27 28(2) 29(3) 30(3) 31(3) 32(3) 33(3) 34(3) 35
+min
+  declared on line 5 at nesting depth 1
+  assigned to on: 9 15 21
+  used on: 10 16 22
+compiling the C generated code
+executing the a.out
+98 97 98 97
+-11 -3 -3 -11
+34 34 34 34
+0 1 0
+15
+0
+600
+2664
+231
+231
+2664
+34
+2664
+27
+98 97 98 97
+-11 -3 -3 -11
+34 34 34 34
+0 1 0
+15
+0
+600
+2664
+231
+231
+2664
+34
+2664
+27

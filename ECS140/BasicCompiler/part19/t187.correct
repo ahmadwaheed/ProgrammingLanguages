@@ -1,0 +1,24 @@
+running e2c t187
+x
+  declared on line 1 at nesting depth 0
+  assigned to on: 11
+  used on: 11
+y
+  declared on line 1 at nesting depth 0
+  never assigned
+  used on: 11(2)
+a
+  declared on line 1 at nesting depth 0
+  assigned to on: 6
+  never used
+b
+  declared on line 1 at nesting depth 0
+  never assigned
+  used on: 6
+compiling the C generated code
+executing the a.out
+1111
+2222
+
+y is unassigned before use on line 11
+    y was declared on line 1 at nesting depth 0

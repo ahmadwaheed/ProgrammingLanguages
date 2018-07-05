@@ -1,0 +1,25 @@
+running e2c t155
+swapping variable a with itself on line 13
+swapping variable b with itself on line 15
+k
+  declared on line 3 at nesting depth 0
+  assigned to on: 5
+  used on: 9 11 14 16
+a
+  declared on line 6 at nesting depth 1
+  assigned to on: 7 10 13(2)
+  used on: 9 10 11 13(2) 14 16
+b
+  declared on line 6 at nesting depth 1
+  assigned to on: 8 10 15(2)
+  used on: 9 10 11 14 15(2) 16
+compiling the C generated code
+executing the a.out
+1 11 12
+1 12 11
+1 12 11
+1 12 11
+2 11 12
+2 12 11
+2 12 11
+2 12 11

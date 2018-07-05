@@ -1,0 +1,17 @@
+running e2c t151
+swapping variable a with itself on line 10
+swapping variable b with itself on line 12
+a
+  declared on line 3 at nesting depth 0
+  assigned to on: 4 7 10(2)
+  used on: 6 7 8 10(2) 11 13
+b
+  declared on line 3 at nesting depth 0
+  assigned to on: 5 7 12(2)
+  used on: 6 7 8 11 12(2) 13
+compiling the C generated code
+executing the a.out
+11 12
+12 11
+12 11
+12 11

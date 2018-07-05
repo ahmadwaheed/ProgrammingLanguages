@@ -1,0 +1,3 @@
+running e2c t173
+mustbe: want ELSE, got Token(RBRACE } 2)
+can't parse: line 2 missing token (mustbe)

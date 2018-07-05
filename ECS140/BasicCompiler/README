@@ -1,0 +1,27 @@
+List students alphabetically,
+
+   sorting by ***last name***.
+
+
+Include CSIF account name for each student.
+Do not include student ID numbers.
+E.g.,
+
+Cortes, Emanuel   emanuel5
+Muhammad, Waheed   ammwaheed
+
+
+Status:
+
+part11: Works on all tests.
+part12: Works on all tests.
+part13: Works on all tests.
+part14: Works on all tests.
+part15: Works on all tests.
+part16: Works on all tests.
+part17: Works on easier tests.
+        Think problem is w/ nested guarded expressions.
+part18: Did not attempt.
+part19: Did not attempt.
+
+Overall: Any comment/discussion related to your solution to this HW.
